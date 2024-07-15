@@ -42,6 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: "I am Google Certified Digital Marketing experienced SEO expert with over 3 years of real-world experience. I know a lot about SEO and how to make websites show up well on Google, Bing, and Yahoo.\n\nTools and Techniques ⤵\n\nI use tools like Google Analytics, GSC, SEMrush, Ahrefs, Moz, and Screaming Frog to look at data and figure out how to make websites better for search engines.\n\nMy expertise encompasses various areas of SEO, including⤵:\n\n\U0001F527 Fixing technical stuff on websites\n\U0001F50E Finding good keywords\n\U0001F4CA Checking websites to see what needs fixing\n✍️ Making website content better\n\U0001F517 Getting other websites to link to yours\n\U0001F4DD Planning and managing website content\n\U0001F4C8 Setting up and checking website data\n✅ Making sure each page on a website is set up well for search engines\n\U0001F4CD Helping local businesses show up better in local searches\n\U0001F6D2 Helping online stores do well in search results\n\n\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
