@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/search console engisoftengineering.png
   altText: Engisoft Engineering
+  caption: Engisoft Engineering
 media:
   type: ImageBlock
   url: /images/bg1.jpg
