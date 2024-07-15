@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Engisoft Engineering Dubai
-colors: colors-b
+colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
